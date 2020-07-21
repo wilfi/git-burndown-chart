@@ -1,0 +1,9 @@
+version: '2'
+services:
+  nginx:
+    container_name: github_burndown_chart
+    image: nginx
+    ports:
+      - "80:80"
+    volumes:
+      - .:/usr/share/nginx/html

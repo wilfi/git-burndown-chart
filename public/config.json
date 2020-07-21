@@ -1,0 +1,4 @@
+{
+  "token": ['replace_your_github_token_id'],
+  "off_days": [ 6, 7 ]
+}
