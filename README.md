@@ -2,7 +2,7 @@ _Clone to Local_
 
 _1. Clone the repository to local -_ 
 ```
-git@github.com:wilfi/git-burndown-chart.git
+git clone git@github.com:wilfi/git-burndown-chart.git
 ```
 _Create local setup_
 _1. Install web server and other dependency_
@@ -71,6 +71,7 @@ _Example -_
 ``` size 1```  ``` size 2 ``` ``` size 3 ``` ``` size 5 ``` ``` size 8 ```  etc
 
 _More reference_ - https://github.com/wilfi/d8dev
+
 _Milestones_ - https://github.com/wilfi/d8dev/milestone/3
 
 _See the BurnDown in realtime_
@@ -105,7 +106,9 @@ http://localhost:80/public/#!/wilfi/d8dev/3
 
 _Where, ``` 3``` is the milestone number from Github._
 
+```
 https://github.com/wilfi/d8dev/milestone/3
+```
 
 _Any private repository with Milestones & issues with story point defined like above can be viewed by navigating to_ 
 
