@@ -77,14 +77,14 @@ _Milestones_ - https://github.com/wilfi/d8dev/milestone/3
 _See the BurnDown in realtime_
 
 ```
-http://localhost:80/#!/wilfi/d8dev
+http://localhost:80/public/#!/wilfi/d8dev
 ```
 
 _Now, close some issues from the issue queue - https://github.com/wilfi/d8dev/issues
 and reload_ 
 
 ```
-http://localhost:80/#!/wilfi/d8dev
+http://localhost:80/public/#!/wilfi/d8dev
 ```
 
 _You should see the updated graph._
@@ -95,7 +95,7 @@ _You can create new milestones, set an estimate completion date and tag issues t
 _Then navigate to_ 
 
 ```
-http://localhost:80/#!/wilfi/d8dev/[milestone_number]
+http://localhost:80/public/#!/wilfi/d8dev/[milestone_number]
 ```
 
 _Example_ 
